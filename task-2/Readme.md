@@ -30,6 +30,7 @@ The project makes use of popular Python libraries for data manipulation and anal
 To gain insights and visualize patterns in the dataset, the following libraries are utilized:
 
 **Seaborn:** Used for statistical data visualization.
+
 **Matplotlib:** Employed for creating plots and charts to visualize data distributions and relationships.
 
 To Download Dataset follow the link "https://www.kaggle.com/datasets/yasserh/wine-quality-dataset"
