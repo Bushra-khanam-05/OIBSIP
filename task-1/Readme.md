@@ -32,6 +32,6 @@ Model Evaluation and Interpretation Skills: Develop skills in evaluating the per
 ## Project Structure
 The project is organized into the following directories:
 
-### data: Contains the dataset used for training and testing the model.
+### data: Contains the dataset used for training and testing the model to download the dataset 'https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression'
 ### notebooks: Jupyter notebooks detailing the data exploration, model training, and evaluation process.
 ### visualizations: Visual aids generated to illustrate the model's predictions.
